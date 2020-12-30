@@ -1,3 +1,3 @@
 # projet_symfony
-## Plateforme d'annonces 
-_réalisé en juillet 2020_
+## Concevoir une plateforme d'annonces pour des cours de soutien
+_Ralisé en juillet 2020_
